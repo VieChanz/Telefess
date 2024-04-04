@@ -1,0 +1,6 @@
+TOKEN = 'your-telegram-bot-token'
+OWNER_ID = 'your-telegram-user-id'
+MONGO_URI = 'your-mongodb-uri'
+DB_NAME = 'your-database-name'
+BANNED_USERS_COLLECTION = 'your-collection-name'
+TARGET_CHANNEL_ID = 'your-target-channel-id'
